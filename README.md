@@ -5,3 +5,4 @@ Lista de exercício cinco em java, nesta lista está alguns algoritmos feitos co
 # Tecnologia utilizada: JDK.
 # Tecnologia utilizada: VSCODE.
 # Tecnologia utilizada: JAVA.
+Matheus de Paula Costa --- 323117725
